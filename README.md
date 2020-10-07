@@ -1,6 +1,3 @@
-### Taner TEMEL
-### Senior Software Engineer
-
 ### Hi there 👋
 
 <!--
